@@ -1,0 +1,17 @@
+{
+  "repo": "plume-data-cdc-hub",
+  "thresholds": {
+    "signal": 2,
+    "slack": 2,
+    "confidence": 2,
+    "drag": 3,
+    "ship": 175,
+    "watch": 123
+  },
+  "terms": [
+    "schema drift",
+    "lineage depth",
+    "partition skew",
+    "quality gap"
+  ]
+}
